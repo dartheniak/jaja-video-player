@@ -1,0 +1,9 @@
+*.o
+*.elf
+*.oelf
+eboot.bin
+pkg.gp4
+*.pkg
+ffinst/
+font.ttf
+sce_sys/
